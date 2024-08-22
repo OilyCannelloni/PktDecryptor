@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="PktDecryptor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PktDecryptor_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PktDecryptor.jar">
+        <element id="module-output" name="PktDecryptor" />
+      </element>
+      <element id="library" level="project" name="Maven: org.jcommander:jcommander:2.0" />
+      <element id="library" level="project" name="Maven: org.bouncycastle:bc-fips:1.0.2.3" />
+    </root>
+  </artifact>
+</component>
